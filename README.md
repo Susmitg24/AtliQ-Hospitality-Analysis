@@ -2,7 +2,7 @@
 
 Atliq Grands has experienced declining market share and revenue due to competition and management decisions. The project focuses on revitalizing the business by leveraging hospitality analytics to make informed decisions.
 
-- Key Insights:
+# Key Insights:
 - Presidential rooms, though premium-priced, are well-received and in demand. This indicates strong customer satisfaction and perceived value, making them ideal for targeted upselling and 
   premium packages.
 - Premium rooms are underperforming and may suffer from a mismatch between price and guest experience. Immediate review of pricing strategy and service quality is recommended.
